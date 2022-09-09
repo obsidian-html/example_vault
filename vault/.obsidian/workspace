@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "Links/Obsidian links.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Links/Obsidian links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Links/Obsidian links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Links/Obsidian links.md"
               }
             }
           }
@@ -130,8 +130,10 @@
   },
   "active": "fe56b42934c6560d",
   "lastOpenFiles": [
-    "Links/Markdown links.md",
     "Home.md",
+    "Links/Markdown links absolute.md",
+    "Links/Markdown links relative.md",
+    "Links/Markdown links .md",
     "Links/Obsidian links.md"
   ]
 }
