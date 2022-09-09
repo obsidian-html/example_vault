@@ -6,4 +6,4 @@ This note was selected as the entrypoint note, and thus ends up as the homepage 
 ## Examples
 ### Links
 - [[Obsidian links]]
-- [Markdown Links](/Links/Markdown%20links.md)
+- [Markdown Links](Links/Markdown%20links.md)
