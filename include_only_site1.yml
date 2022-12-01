@@ -1,0 +1,14 @@
+# The note that will be used as the index.html 
+# should be in obsidian_folder_path_str
+# Can be absent when toggles/compile_md == False
+# Use full path or relative path, but don't use ~/
+obsidian_entrypoint_path_str: 'vault/Site1/Site 1 Homepage.md'
+
+# When not an empty list, this setting will restrict the subfolders
+# of the vault that will be included. This allows you to ensure that 
+# only those folders are included in the output. Links pointing to notes
+# outside of the included folders will be treated as non-existent.
+# Note that the obsidian_entrypoint_path_str needs to be in one of these folders.
+# Paths should be relative to the vault root.
+included_folders:
+  - Site1
