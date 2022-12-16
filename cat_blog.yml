@@ -1,0 +1,23 @@
+# The note that will be used as the index.html 
+# should be in obsidian_folder_path_str
+# Can be absent when toggles/compile_md == False
+# Use full path or relative path, but don't use ~/
+obsidian_entrypoint_path_str: '/home/dorus/git/example_vault/vault/Home.md'
+
+toggles:
+  features:
+
+    create_index_from_tags:
+      enabled: True
+      verbose: True
+      homepage_label: "Homepage"
+      add_links_in_graph_tree: True
+      tags:
+        - pets
+        - mammal
+      sort:
+        method: 'none'          # <key_value, creation_time, modified_time, none>    ! created_time not available on Linux!
+
+    create_index_from_dir_structure:
+      enabled: True
+      homepage_label: "Homepage"

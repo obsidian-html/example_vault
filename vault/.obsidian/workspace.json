@@ -61,14 +61,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Site2/Site2 Homepage.md",
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c783c0e60f57c417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Cats.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c73986ff1eed28a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Cats.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -97,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cats",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Site2/Site2 Homepage.md",
+                "file": "Blog/Cats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Site2/Site2 Homepage.md",
+                "file": "Blog/Cats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,27 +198,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Site2/Site2 Homepage.md"
+                "file": "Blog/Cats.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f871d682461316cf",
+  "active": "c73986ff1eed28a7",
   "lastOpenFiles": [
-    "Site2/Site 2 page.md",
+    "Blog/Armadillo.md",
+    "Blog/Cats.md",
+    "Home.md",
     "Site2/Site2 Homepage.md",
+    "Site2/Site 2 page.md",
     "Site1/Site 1 Homepage.md",
     "Site1/Site 1 Page.md",
     "Links/Obsidian links.md",
-    "Home.md",
     "Links/Markdown links absolute.md",
-    "Links/Markdown links relative.md",
-    "Links/Markdown links .md"
+    "Links/Markdown links relative.md"
   ]
 }
