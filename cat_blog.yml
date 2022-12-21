@@ -2,11 +2,10 @@
 # should be in obsidian_folder_path_str
 # Can be absent when toggles/compile_md == False
 # Use full path or relative path, but don't use ~/
-obsidian_entrypoint_path_str: '/home/dorus/git/example_vault/vault/Home.md'
+obsidian_entrypoint_path_str: '/home/dorus/git/example_vault/vault/Blog/Welcome to my homepage!.md'
 
 toggles:
   features:
-
     create_index_from_tags:
       enabled: True
       verbose: True
@@ -21,3 +20,11 @@ toggles:
     create_index_from_dir_structure:
       enabled: True
       homepage_label: "Homepage"
+
+    side_pane:                  # only valid for documentation layout
+      left_pane:
+        enabled: True
+        contents: tag_tree      # <toc, tag_tree, dir_tree> relevant features should be enabled and configured see docs
+      right_pane:
+        enabled: True
+        contents: toc           # <toc, tag_tree, dir_tree> relevant features should be enabled and configured see docs
