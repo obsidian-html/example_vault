@@ -1,3 +1,7 @@
+---
+graph_name: Cats!
+---
+
 # I like cats
 
 #pets/cats
